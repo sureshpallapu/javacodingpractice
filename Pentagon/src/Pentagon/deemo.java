@@ -6,5 +6,4 @@ public class deemo {
 		System.out.println("myself Suresh");
 
 	}
-
 }
