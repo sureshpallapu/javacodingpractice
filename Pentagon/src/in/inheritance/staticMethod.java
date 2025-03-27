@@ -4,11 +4,13 @@ public class staticMethod{
 	int a,b;
 	static int  x,y;
 	staticMethod(){
+		int m=10;
 		a=10;b=20;
 		x=100;y=200;
 		System.out.println("con....exe....");
 	}
 	void m(){
+		
 		System.out.println("nonstaticmethd");
 	}
 	static void m1(){
