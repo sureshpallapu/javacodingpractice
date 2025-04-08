@@ -2,7 +2,7 @@ package in.abstraction;
 
 import java.util.Scanner;
 
-public class rectangle extends shape {
+public class rectangle extends ShapeE {
 	Scanner s=new Scanner(System.in);
 	 double l,b;
 	
